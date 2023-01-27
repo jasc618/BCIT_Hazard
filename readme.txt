@@ -1,8 +1,6 @@
--------------------------------
-BCIT Biking
--------------------------------
+# BCIT Biking
 
-== CONTENTS == 
+## File Structure
 Top Level of project folder:
     -- .gitignore             # Git ignore file
     -- index.html             # landing HTML file, this is what users see when you come to url (and for login)
@@ -31,7 +29,7 @@ It has the follow subfolders:
        /styles.css            # this is where the core styling elements are located.
 
 
-== REFERENCE LIBRARIES == 
+## Reference Libraries
 Google Maps:
 https://developers.google.com/maps/documentation
 FireBase:
